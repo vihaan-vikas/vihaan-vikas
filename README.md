@@ -24,6 +24,6 @@ Here are the languages and tools I'm currently using and learning:
 
 ## 🔗 Links
 
-- [LinkedIn](https://www.linkedin.com/in/vihaan-vikas-788861369/)
+- [LinkedIn](https://www.linkedin.com/in/vihaan-vikas-20july1969/)
 - [X (Twitter)](https://x.com/vihaan__vikas)
 - [GitHub](https://github.com/vihaan-vikas)
